@@ -2,9 +2,9 @@
     Motorlink
     
 # Integrantes:
-    # Fernando Rocha Gonçalves
-    # Rafael Augusto Mattiuzzo
-    # Thomás Réa Farias
+    Fernando Rocha Gonçalves
+    Rafael Augusto Mattiuzzo
+    Thomás Réa Farias
 
 # Execução:
     npm run dev:full
